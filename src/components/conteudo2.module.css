@@ -1,0 +1,15 @@
+ .conteudo2{
+    background-color: rgb(159, 159, 159);
+    color: black;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    font-size: larger;
+
+ }
+
+ .conteudo2 img{
+    height: 200px;
+    display: flex;
+    
+ }

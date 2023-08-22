@@ -1,0 +1,29 @@
+.conteudo1{
+    background-color: rgb(159, 159, 159);
+    color: aliceblue;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding-right: 30%; 
+    justify-content: right;
+    display: flex;
+    text-align: right;
+    
+
+
+    
+}
+
+.conteudo1 img{
+    height: 200px;
+    display: flex;
+    
+}
+
+.conteudo1 h6{
+    align-items: center;
+    color: rgb(0, 0, 0);
+}
+
+.doisgato{
+    height: 1000px;
+}
